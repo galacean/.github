@@ -1,2 +1,2 @@
-- 🌈 Official site: https://galacean.antgroup.com/
-- 🌈 Discussions: https://github.com/orgs/galacean/discussions
+- Official site: https://galacean.antgroup.com/
+- Discussions: https://github.com/orgs/galacean/discussions
