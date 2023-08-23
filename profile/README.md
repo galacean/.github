@@ -1,2 +1,2 @@
-- Official site: https://galacean.antgroup.com/
-- Discussions: https://github.com/orgs/galacean/discussions
+- Official site（官网）: https://galacean.antgroup.com/
+- Discussions（论坛）: https://github.com/orgs/galacean/discussions
