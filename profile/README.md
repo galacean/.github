@@ -7,8 +7,8 @@ It is specifically designed for mobile platforms and is web-developer-friendly.
 >
 > If you have any questions regarding Galacean products, please leave messages in the **[dicussions](https://github.com/orgs/galacean/discussions)**.
 >
-> For individuals utilizing *Wechat* or *DingTalk*, feel free to get in touch with us.
+> For individuals utilizing *Wechat* or *Dingtalk*, feel free to get in touch with us.
 >
-> | Wechat | DingTalk |
+> | Wechat | Dingtalk |
 > |--------|-----|
 > |<img width="100" height="100" src="https://mdn.alipayobjects.com/huamei_2uqjce/afts/img/A*uinbS4soUJAAAAAAAAAAAAAADsF_AQ/fmt.webp" alt="">|<img width="100" height="100" src="https://mdn.alipayobjects.com/huamei_2uqjce/afts/img/A*8RKoRZmX0VgAAAAAAAAAAAAADsF_AQ/original" alt="">|
