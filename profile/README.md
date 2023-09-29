@@ -5,7 +5,7 @@ It is specifically designed for mobile platforms and is web-developer-friendly.
 
 > Visit the **[official website](https://galacean.antgroup.com/)** for more information.
 >
-> If you have any questions regarding Galacean products, please leave messages in the **[dicussion](https://github.com/orgs/galacean/discussions)**.
+> If you have any questions regarding Galacean products, please leave messages in the **[Dicussions](https://github.com/orgs/galacean/discussions)**.
 >
 > For individuals utilizing *Wechat* or *DingTalk*, feel free to get in touch with us.
 >
