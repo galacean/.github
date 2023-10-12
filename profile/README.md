@@ -11,4 +11,6 @@ It is specifically designed for mobile platforms and is web-developer-friendly.
 >
 > | Wechat | Dingtalk |
 > |--------|-----|
-> |<img width="100" height="100" src="https://mdn.alipayobjects.com/huamei_2uqjce/afts/img/A*uinbS4soUJAAAAAAAAAAAAAADsF_AQ/fmt.webp" alt="">|<img width="100" height="100" src="https://mdn.alipayobjects.com/huamei_2uqjce/afts/img/A*8RKoRZmX0VgAAAAAAAAAAAAADsF_AQ/original" alt="">|
+> |<img width="100" height="100" src="https://github.com/galacean/.github/assets/1296667/35f8e183-8c33-4b24-b360-e36cb53f3a29" alt="">|<img width="100" height="100" src="https://github.com/galacean/.github/assets/1296667/4274498b-209f-4643-ae3c-2af13c679a24" alt="">|
+
+
