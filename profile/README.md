@@ -3,7 +3,7 @@
 
 It is specifically designed for mobile platforms and is web-developer-friendly.
 
-> Visit the **[official website](https://www.galacean.com/)** for more information.
+> Visit the **[official website](https://galacean.antgroup.com/)** for more information.
 >
 > If you have any questions regarding Galacean products, please leave messages in the **[dicussions](https://github.com/orgs/galacean/discussions)**.
 >
